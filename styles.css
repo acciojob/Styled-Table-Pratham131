@@ -1,1 +1,17 @@
 /* your code */
+.table {
+/* 	border: 1px solid black; */
+	border-collapse: collapse;
+	border-radius: 15px;
+/* 	cellspacing: 25px; */
+/* 	cellpadding: 2px; */
+	background: lightgray;
+}
+
+th, td {
+
+	padding: 10px;
+	border: 2px solid white;
+}
+
+
